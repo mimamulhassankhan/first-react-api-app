@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-react-api-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/first-react-api-app/static/js/main.fcad1643.chunk.js",
+    "main.js.map": "/first-react-api-app/static/js/main.fcad1643.chunk.js.map",
+    "runtime-main.js": "/first-react-api-app/static/js/runtime-main.1fa2469b.js",
+    "runtime-main.js.map": "/first-react-api-app/static/js/runtime-main.1fa2469b.js.map",
+    "static/js/2.a297d3ed.chunk.js": "/first-react-api-app/static/js/2.a297d3ed.chunk.js",
+    "static/js/2.a297d3ed.chunk.js.map": "/first-react-api-app/static/js/2.a297d3ed.chunk.js.map",
+    "index.html": "/first-react-api-app/index.html",
+    "precache-manifest.3a1c8594025f4d8908d56d432fd547e6.js": "/first-react-api-app/precache-manifest.3a1c8594025f4d8908d56d432fd547e6.js",
+    "service-worker.js": "/first-react-api-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/first-react-api-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a297d3ed.chunk.js.LICENSE.txt": "/first-react-api-app/static/js/2.a297d3ed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/first-react-api-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa2469b.js",
+    "static/js/2.a297d3ed.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fcad1643.chunk.js"
+  ]
+}
