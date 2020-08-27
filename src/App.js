@@ -31,7 +31,7 @@ function App() {
 function Post(){
   const [posts, setPosts] = useState([]);
   useEffect(()=>{
-    fetch('http://jsonplaceholder.typicode.com/posts')
+    fetch('https://jsonplaceholder.typicode.com/posts')
     .then(res => res.json())
     .then(data => setPosts(data));
   },[]);  
